@@ -1,1 +1,1 @@
-# python-foundations-and-ai-prep
+# Python Learning Journey
